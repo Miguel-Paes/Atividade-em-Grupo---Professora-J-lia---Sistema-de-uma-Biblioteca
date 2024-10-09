@@ -1,4 +1,4 @@
-# meuPrimeiroRepositporio
+# Atividade em Grupo - Sistema de uma Biblioteca
 Atividade em Grupo de Lógica de Programação
 
 
